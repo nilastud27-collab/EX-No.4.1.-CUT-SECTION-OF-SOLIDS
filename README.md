@@ -41,8 +41,15 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
 
 ## OUTPUT:
+<img width="1018" height="717" alt="Screenshot 2026-10-22 113527" src="https://github.com/user-attachments/assets/33bfb426-8a12-465e-8f31-816c2f10bdb7" />
+<img width="932" height="597" alt="Screenshot 2026-10-22 104224" src="https://github.com/user-attachments/assets/0a019039-3665-46ff-aa44-35a06d48c463" />
 
 ## RESULT:
+The parametric solid 3D model of the given engineering component has been successfully modeled in Autodesk Fusion 360 fulfilling all geometric layout rules, center-to-center constraints, and tolerances specified in the input blueprint.
+
+ILANILA VINNARASI.K.V
+26017175
+22.10.2026
 
 Thus, the cut section for solid model is created.
 
