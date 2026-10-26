@@ -46,10 +46,11 @@ To create the solid model from given drawing and section the solid model
 
 ## RESULT:
 The parametric solid 3D model of the given engineering component has been successfully modeled in Autodesk Fusion 360 fulfilling all geometric layout rules, center-to-center constraints, and tolerances specified in the input blueprint.
+Thus, the cut section for solid model is created.
 
 ILANILA VINNARASI.K.V
 26017175
 22.10.2026
 
-Thus, the cut section for solid model is created.
+
 
